@@ -51,4 +51,5 @@ public class Droid {
     public String getName() {return name;}
     public int getColor() {return color;}
     public int getAvatarId() {return imageId;}
+
 }
